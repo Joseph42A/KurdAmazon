@@ -1,7 +1,7 @@
 # KurdAmazon
 
 Ecommerce Shopping Web App, full-stack MERN application integrated with "paypal" payment
-s
+
 # Installation
 
 Follow the steps
